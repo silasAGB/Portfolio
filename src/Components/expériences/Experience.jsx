@@ -1,9 +1,9 @@
-import React from 'react'
-import './Experience.css'
+import React from 'react';
+import './Experience.css';
 
 export const Experience = () => {
   return (
-    <div>Experience</div>
+    <section id='experience'>Experience</section>
   )
 }
 export default Experience;

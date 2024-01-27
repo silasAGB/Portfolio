@@ -3,7 +3,7 @@ import './Temoignage.css';
 
 export const Temoignage = () => {
   return (
-    <div>Temoignage</div>
+    <section id='temoignage'>Temoignage</section>
   )
 }
 export default Temoignage;
